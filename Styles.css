@@ -1,0 +1,25 @@
+ body{
+    background-color: goldenrod;
+ }
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: rosybrown;
+}
+h2 {
+  color: rgb(63, 62, 110);
+  font-size: 50px;
+  text-align: center;
+}
+p {
+  color: rgb(164, 175, 3);
+  font-size: 25px;
+  text-align: center;
+}
+.bird {
+  color: aqua;
+  font-style: unset;
+  font-weight: 450;
+  text-align: center;
+}
